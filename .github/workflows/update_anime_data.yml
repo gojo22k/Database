@@ -22,13 +22,13 @@ jobs:
       - name: Fetch and Update Anime Data
         run: node fetch_and_update_data.js
 
-      - name: Commit changes
+        - name: Commit changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add anime_data.json
           git commit -m "Update anime data"
-          git push https://github.com/gojo22k/Database.git HEAD:main
-
+      
           # Using PAT for authentication
           git push https://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@github.com/gojo22k/Database.git HEAD:main
+      
