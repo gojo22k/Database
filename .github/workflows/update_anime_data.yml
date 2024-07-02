@@ -1,7 +1,7 @@
 name: Update Anime Data
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows the workflow to be manually triggered
 
 jobs:
   update-data:
@@ -24,10 +24,11 @@ jobs:
 
       - name: Commit changes
         run: |
-          if [ -f anime_data.json ]; then
-            git config --local user.email "actions@github.com"
-            git config --local user.name "GitHub Actions"
-            git add anime_data.json
-            git commit -m "Update anime data"
-            git push https://github.com/gojo22k/Database.git HEAD:main
-          fi
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add anime_data.json
+          git commit -m "Update anime data"
+          git push https://github.com/gojo22k/Database.git HEAD:main
+
+          # Using PAT for authentication
+          git push https://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@github.com/gojo22k/Database.git HEAD:main
