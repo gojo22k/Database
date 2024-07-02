@@ -22,7 +22,7 @@ jobs:
       - name: Fetch and Update Anime Data
         run: node fetch_and_update_data.js
 
-        - name: Commit changes
+      - name: Commit changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
