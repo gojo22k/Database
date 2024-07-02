@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # Fetch all history for proper git operations
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
@@ -28,7 +30,7 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add anime_data.json
           git commit -m "Update anime data"
-      
-          # Using PAT for authentication
-          git push https://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@github.com/gojo22k/Database.git HEAD:main
-      
+
+          # Using SSH for authentication
+          git remote set-url origin git@github.com:gojo22k/Database.git
+          git push origin HEAD:main
