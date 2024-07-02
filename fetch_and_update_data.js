@@ -35,8 +35,9 @@ async function fetchFolders(apiKey, platform) {
   return response.data.result.folders;
 }
 
-async function fetchAnimeDetailsFromJikan(animeName, maxRetries = 3) {
+async function fetchAnimeDetailsFromJikan(animeName, maxRetries = 5) {
   let retries = 0;
+  const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
   while (retries < maxRetries) {
     try {
       const apiUrl = `${MAL_API_URL}/anime?q=${encodeURIComponent(animeName)}&limit=1`;
@@ -60,15 +61,12 @@ async function fetchAnimeDetailsFromJikan(animeName, maxRetries = 3) {
       console.error('Error fetching MAL data:', error.message);
       if (axios.isAxiosError(error) && error.code === 'ECONNABORTED') {
         console.error('Request timed out. Retrying...');
-        retries++;
       } else if (error.response && error.response.status === 429) {
-        const retryAfter = parseInt(error.response.headers['retry-after']) || 1;
+        const retryAfter = parseInt(error.response.headers['retry-after']) || Math.pow(2, retries);
         console.error(`Rate limit exceeded. Waiting for ${retryAfter} seconds before retrying.`);
-        await new Promise(resolve => setTimeout(resolve, retryAfter * 1000));
-        retries++;
-      } else {
-        retries++;
+        await delay(retryAfter * 1000);
       }
+      retries++;
     }
   }
   console.error(`Maximum retries (${maxRetries}) exceeded for anime ${animeName}`);
