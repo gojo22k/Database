@@ -28,4 +28,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add anime_data.json
           git commit -m "Update anime data"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/gojo22k/Database.git HEAD:main
+          git push https://github.com/gojo22k/Database.git HEAD:main
