@@ -42,4 +42,3 @@ jobs:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }} # Ensure you have a GitHub secret named PAT_TOKEN containing your Personal Access Token
         run: |
           git push https://github.com/gojo22k/Database.git HEAD:main
-
