@@ -98,10 +98,10 @@ async function fetchDataAndUpdateJson() {
       if (animeDetails) {
         animeData.push({
           id: folder.fld_id,
-          name: he.decode(folder.name),
+          name: folder.name ? he.decode(folder.name) : '',
           genres: animeDetails.genres,
           type: animeDetails.type,
-          starting_letter: folder.name.charAt(0).toUpperCase(),
+          starting_letter: folder.name ? folder.name.charAt(0).toUpperCase() : '',
           cloud: platform,
           pg_rating: animeDetails.pgRating,
           score: animeDetails.score,
