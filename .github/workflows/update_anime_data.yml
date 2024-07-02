@@ -13,6 +13,9 @@ jobs:
         with:
           fetch-depth: 0 # Fetch all history for proper git operations
 
+      - name: Clean up untracked files
+        run: git clean -fdx
+
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
@@ -21,16 +24,22 @@ jobs:
       - name: Install dependencies
         run: npm install axios he
 
+      - name: Set local Git config
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
       - name: Fetch and Update Anime Data
         run: node fetch_and_update_data.js
 
       - name: Commit changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
           git add anime_data.json
           git commit -m "Update anime data"
 
-          # Using SSH for authentication
-          git remote set-url origin git@github.com:gojo22k/Database.git
-          git push origin HEAD:main
+      - name: Push changes to GitHub
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }} # Ensure you have a GitHub secret named PAT_TOKEN containing your Personal Access Token
+        run: |
+          git push https://github.com/gojo22k/Database.git HEAD:main
+
