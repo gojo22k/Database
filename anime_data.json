@@ -1,1 +1,673 @@
-Ok Ankit This Is ANIFLIX
+[
+  {
+    "id": 179825,
+    "name": "MY UNIQUE SKILL MAKES ME OP EVEN AT LEVEL 1",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.23,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 176959,
+    "name": "More Than a Married Couple, But Not Lovers",
+    "genres": [
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.59,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 181558,
+    "name": "Delicious In Dungeon",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Gourmet"
+    ],
+    "type": "TV",
+    "starting_letter": "D",
+    "cloud": "Filemoon",
+    "pg_rating": "R - 17+ (violence & profanity)",
+    "score": 8.6,
+    "status": "Finished Airing",
+    "total_episodes": 24
+  },
+  {
+    "id": 181006,
+    "name": "Tower of God",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "status": "Finished Airing",
+    "total_episodes": 13
+  },
+  {
+    "id": 136262,
+    "name": "Spy X Family Season 2",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "TV",
+    "starting_letter": "S",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.07,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 136372,
+    "name": "My Dress Up Darling",
+    "genres": [
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.18,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 137701,
+    "name": "The Legend Of Hanuman Season 3",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 5.65,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 138644,
+    "name": "My Hero Academia Season 2",
+    "genres": [
+      "Action"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.08,
+    "status": "Finished Airing",
+    "total_episodes": 25
+  },
+  {
+    "id": 138822,
+    "name": "Chainsaw Man",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "C",
+    "cloud": "Filemoon",
+    "pg_rating": "R - 17+ (violence & profanity)",
+    "score": 8.5,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 144881,
+    "name": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "",
+    "starting_letter": "I",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 0,
+    "status": "Not yet aired",
+    "total_episodes": 0
+  },
+  {
+    "id": 145188,
+    "name": "One Punch Man",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "TV",
+    "starting_letter": "O",
+    "cloud": "Filemoon",
+    "pg_rating": "R - 17+ (violence & profanity)",
+    "score": 8.49,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 146724,
+    "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.33,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 146727,
+    "name": "My Tiny Senpai",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.9,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 161732,
+    "name": "ANKIT",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "OVA",
+    "starting_letter": "A",
+    "cloud": "Filemoon",
+    "pg_rating": "R+ - Mild Nudity",
+    "score": 6.43,
+    "status": "Finished Airing",
+    "total_episodes": 1
+  },
+  {
+    "id": 180208,
+    "name": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "I",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.51,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 163523,
+    "name": "Akudama Drive",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "starting_letter": "A",
+    "cloud": "Filemoon",
+    "pg_rating": "R - 17+ (violence & profanity)",
+    "score": 7.58,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 179845,
+    "name": "Metallic Rouge",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.22,
+    "status": "Finished Airing",
+    "total_episodes": 13
+  },
+  {
+    "id": 179344,
+    "name": "The Maid I Hired Recently is Mysterious",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.58,
+    "status": "Finished Airing",
+    "total_episodes": 11
+  },
+  {
+    "id": 176066,
+    "name": "Black Clover",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "B",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.14,
+    "status": "Finished Airing",
+    "total_episodes": 170
+  },
+  {
+    "id": 176417,
+    "name": "The Detective Is Already Dead",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.4,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 176975,
+    "name": "The Daily Life of the Immortal King Season 4",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "starting_letter": "T",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.48,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 181811,
+    "name": "Darling in the FranXX",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "starting_letter": "D",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.19,
+    "status": "Finished Airing",
+    "total_episodes": 24
+  },
+  {
+    "id": 183458,
+    "name": "Log Horizon Season 2",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "L",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.56,
+    "status": "Finished Airing",
+    "total_episodes": 25
+  },
+  {
+    "id": 184882,
+    "name": "Horimiya: The Missing Pieces Season 2",
+    "genres": [
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "H",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.18,
+    "status": "Finished Airing",
+    "total_episodes": 13
+  },
+  {
+    "id": 185350,
+    "name": "I Shall Survive Using Potions!",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "I",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.55,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 185351,
+    "name": "An Archdemon&#39;s Dilemma",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "A",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.33,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": 186738,
+    "name": "Weathering With You",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "type": "Movie",
+    "starting_letter": "W",
+    "cloud": "Filemoon",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.27,
+    "status": "Finished Airing",
+    "total_episodes": 1
+  },
+  {
+    "id": "839110",
+    "name": "A Condition Called Love",
+    "genres": [
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "A",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.72,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "840436",
+    "name": "Bartender Glass of God",
+    "genres": [
+      "Drama",
+      "Gourmet"
+    ],
+    "type": "TV",
+    "starting_letter": "B",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.4,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "839112",
+    "name": "Bucchigiri?!",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "B",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.58,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "841856",
+    "name": "Frieren: Beyond Journey's End",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "F",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 9.35,
+    "status": "Finished Airing",
+    "total_episodes": 28
+  },
+  {
+    "id": "839016",
+    "name": "Hokkaido Gals Are Super Adorable!",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "starting_letter": "H",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.03,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "839114",
+    "name": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "I",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.51,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "839122",
+    "name": "Kaiju No. 8",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "type": "",
+    "starting_letter": "K",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 0,
+    "status": "Not yet aired",
+    "total_episodes": 0
+  },
+  {
+    "id": "840050",
+    "name": "Masamune-kun's Revenge Season 2",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "MixDrop",
+    "pg_rating": "R - 17+ (violence & profanity)",
+    "score": 6.64,
+    "status": "Finished Airing",
+    "total_episodes": 13
+  },
+  {
+    "id": "834050",
+    "name": "My Hero Academia Season 2",
+    "genres": [
+      "Action"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.08,
+    "status": "Finished Airing",
+    "total_episodes": 25
+  },
+  {
+    "id": "834144",
+    "name": "My Tiny Senpai",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "M",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 6.9,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "834042",
+    "name": "One Punch Man",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "TV",
+    "starting_letter": "O",
+    "cloud": "MixDrop",
+    "pg_rating": "R - 17+ (violence & profanity)",
+    "score": 8.49,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "839668",
+    "name": "Rent A Girlfriend Season 3",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "starting_letter": "R",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.06,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "838038",
+    "name": "Spy X Family Season 2",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "TV",
+    "starting_letter": "S",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 8.07,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "838306",
+    "name": "The Daily Life of the Immortal King Season 1",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "starting_letter": "T",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.48,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "839108",
+    "name": "The Great Cleric",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.11,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  },
+  {
+    "id": "839008",
+    "name": "The Wrong Way to use healing magic",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "T",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.55,
+    "status": "Finished Airing",
+    "total_episodes": 13
+  },
+  {
+    "id": "838046",
+    "name": "Villainess Level 99",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "TV",
+    "starting_letter": "V",
+    "cloud": "MixDrop",
+    "pg_rating": "PG-13 - Teens 13 or older",
+    "score": 7.13,
+    "status": "Finished Airing",
+    "total_episodes": 12
+  }
+]
