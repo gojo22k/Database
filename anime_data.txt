@@ -60,6 +60,30 @@
         "total_episodes": 12
     },
     {
+        "id": 176959,
+        "name": "More Than a Married Couple, But Not Lovers",
+        "genres": "Romance",
+        "type": "TV",
+        "starting_letter": "M",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.58,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
+        "id": 181558,
+        "name": "Delicious In Dungeon",
+        "genres": "Adventure, Comedy, Fantasy, Gourmet",
+        "type": "TV",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 8.61,
+        "status": "Finished Airing",
+        "total_episodes": 24
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
@@ -70,18 +94,6 @@
         "score": 8.49,
         "status": "Finished Airing",
         "total_episodes": 12
-    },
-    {
-        "id": 32137,
-        "name": "Naruto",
-        "genres": "Action, Adventure, Fantasy",
-        "type": "TV",
-        "starting_letter": "N",
-        "cloud": "VidHide",
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8,
-        "status": "Finished Airing",
-        "total_episodes": 220
     },
     {
         "id": 70356,
@@ -106,5 +118,17 @@
         "score": 8.49,
         "status": "Finished Airing",
         "total_episodes": 12
+    },
+    {
+        "id": "1248617",
+        "name": "Dragon Ball Super",
+        "genres": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "D",
+        "cloud": "DoodStream",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.45,
+        "status": "Finished Airing",
+        "total_episodes": 131
     }
 ]
