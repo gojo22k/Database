@@ -48,6 +48,66 @@
         "total_episodes": 12
     },
     {
+        "id": "840440",
+        "name": "Akudama Drive",
+        "genres": "Action, Sci-Fi, Suspense",
+        "type": "TV",
+        "starting_letter": "A",
+        "cloud": "MixDrop",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 7.58,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
+        "id": "840958",
+        "name": "An Archdemon's Dilemma",
+        "genres": "Action, Fantasy, Romance",
+        "type": "TV",
+        "starting_letter": "A",
+        "cloud": "MixDrop",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.3,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
+        "id": "840436",
+        "name": "Bartender Glass of God",
+        "genres": "Drama, Gourmet",
+        "type": "TV",
+        "starting_letter": "B",
+        "cloud": "MixDrop",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.38,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
+        "id": "840956",
+        "name": "Black Butler Season 4",
+        "genres": "Action, Fantasy, Mystery",
+        "type": "TV",
+        "starting_letter": "B",
+        "cloud": "MixDrop",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 7.66,
+        "status": "Finished Airing",
+        "total_episodes": 24
+    },
+    {
+        "id": "837874",
+        "name": "Black Clover",
+        "genres": "Action, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "B",
+        "cloud": "MixDrop",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.14,
+        "status": "Finished Airing",
+        "total_episodes": 170
+    },
+    {
         "id": 179825,
         "name": "MY UNIQUE SKILL MAKES ME OP EVEN AT LEVEL 1",
         "genres": "Adventure, Fantasy",
@@ -58,6 +118,54 @@
         "score": 6.23,
         "status": "Finished Airing",
         "total_episodes": 12
+    },
+    {
+        "id": 176959,
+        "name": "More Than a Married Couple, But Not Lovers",
+        "genres": "Romance",
+        "type": "TV",
+        "starting_letter": "M",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.58,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
+        "id": 181558,
+        "name": "Delicious In Dungeon",
+        "genres": "Adventure, Comedy, Fantasy, Gourmet",
+        "type": "TV",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 8.61,
+        "status": "Finished Airing",
+        "total_episodes": 24
+    },
+    {
+        "id": 136072,
+        "name": "Suzume no Tojimari",
+        "genres": "Adventure, Fantasy",
+        "type": "Movie",
+        "starting_letter": "S",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.29,
+        "status": "Finished Airing",
+        "total_episodes": 1
+    },
+    {
+        "id": 181557,
+        "name": "Shangri-La Frontier",
+        "genres": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "starting_letter": "S",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.07,
+        "status": "Finished Airing",
+        "total_episodes": 25
     },
     {
         "id": 32062,
@@ -82,6 +190,18 @@
         "score": 8.51,
         "status": "Finished Airing",
         "total_episodes": 12
+    },
+    {
+        "id": 70474,
+        "name": "Jujutsu Kaisin",
+        "genres": "Action, Award Winning, Fantasy",
+        "type": "TV",
+        "starting_letter": "J",
+        "cloud": "StreamWish",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 8.59,
+        "status": "Finished Airing",
+        "total_episodes": 24
     },
     {
         "id": "1292585",
