@@ -2508,6 +2508,18 @@
         "total_episodes": 13
     },
     {
+        "id": 205621,
+        "name": "Fairy Tail: 100 Years Quest",
+        "genres": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "starting_letter": "F",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.99,
+        "status": "Currently Airing",
+        "total_episodes": null
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
