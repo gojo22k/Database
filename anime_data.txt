@@ -139,7 +139,7 @@
         "starting_letter": "B",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.56,
+        "score": 6.55,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -283,7 +283,7 @@
         "starting_letter": "H",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.03,
+        "score": 7.02,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -883,7 +883,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.11,
+        "score": 7.1,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -943,7 +943,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.22,
+        "score": 6.21,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -1015,7 +1015,7 @@
         "starting_letter": "V",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.13,
+        "score": 7.12,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1051,7 +1051,7 @@
         "starting_letter": "W",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.78,
+        "score": 7.77,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -1579,7 +1579,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.56,
+        "score": 6.55,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1591,7 +1591,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.11,
+        "score": 7.1,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1699,7 +1699,7 @@
         "starting_letter": "H",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.03,
+        "score": 7.02,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1759,7 +1759,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.78,
+        "score": 7.77,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -1819,7 +1819,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.13,
+        "score": 7.12,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2263,7 +2263,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.29,
+        "score": 7.28,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2311,7 +2311,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.22,
+        "score": 6.21,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2323,7 +2323,7 @@
         "starting_letter": "1",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.19,
+        "score": 6.16,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2371,7 +2371,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.37,
+        "score": 8.36,
         "status": "Finished Airing",
         "total_episodes": 11
     },
@@ -2383,7 +2383,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.03,
+        "score": 7.02,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2407,7 +2407,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.48,
+        "score": 6.46,
         "status": "Currently Airing",
         "total_episodes": 10
     },
@@ -2419,7 +2419,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.67,
+        "score": 6.64,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2479,7 +2479,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.04,
+        "score": 7.05,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2516,6 +2516,42 @@
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
         "score": 7.99,
+        "status": "Currently Airing",
+        "total_episodes": null
+    },
+    {
+        "id": 206323,
+        "name": "Assassination Classroom",
+        "genres": "Action, Comedy",
+        "type": "TV",
+        "starting_letter": "A",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.08,
+        "status": "Finished Airing",
+        "total_episodes": 22
+    },
+    {
+        "id": 206324,
+        "name": "Assassination Classroom Season 2",
+        "genres": "Action, Comedy",
+        "type": "TV",
+        "starting_letter": "A",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.48,
+        "status": "Finished Airing",
+        "total_episodes": 25
+    },
+    {
+        "id": 206325,
+        "name": "True Beauty",
+        "genres": "Comedy, Drama, Romance",
+        "type": "ONA",
+        "starting_letter": "T",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 6.37,
         "status": "Currently Airing",
         "total_episodes": null
     },
