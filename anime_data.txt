@@ -2568,6 +2568,18 @@
         "total_episodes": 24
     },
     {
+        "id": 207259,
+        "name": "That Time I Got Reincarnated as a Slime Season 2",
+        "genres": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "T",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.37,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
