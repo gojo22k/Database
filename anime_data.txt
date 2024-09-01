@@ -415,7 +415,7 @@
         "starting_letter": "K",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 6.72,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -583,7 +583,7 @@
         "starting_letter": "M",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.86,
+        "score": 6.85,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -943,7 +943,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.21,
+        "score": 6.2,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -1099,7 +1099,7 @@
         "starting_letter": "S",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.29,
+        "score": 8.28,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -1435,7 +1435,7 @@
         "starting_letter": "Z",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 7.79,
+        "score": 7.78,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1927,7 +1927,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.86,
+        "score": 6.85,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2071,7 +2071,7 @@
         "starting_letter": "K",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 6.72,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2203,7 +2203,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.25,
+        "score": 7.26,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2263,7 +2263,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.28,
+        "score": 7.29,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2311,7 +2311,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.21,
+        "score": 6.2,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2323,7 +2323,7 @@
         "starting_letter": "1",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.16,
+        "score": 6.1,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2359,7 +2359,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.84,
+        "score": 7.83,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2383,7 +2383,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.02,
+        "score": 7.01,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2407,7 +2407,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.46,
+        "score": 6.43,
         "status": "Currently Airing",
         "total_episodes": 10
     },
@@ -2419,7 +2419,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.64,
+        "score": 6.62,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2479,7 +2479,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.05,
+        "score": 7.06,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2503,7 +2503,7 @@
         "starting_letter": "Q",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.28,
+        "score": 6.27,
         "status": "Currently Airing",
         "total_episodes": 13
     },
@@ -2515,7 +2515,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.99,
+        "score": 7.98,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2551,9 +2551,21 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.37,
+        "score": 6.39,
         "status": "Currently Airing",
         "total_episodes": null
+    },
+    {
+        "id": 207253,
+        "name": "That Time I Got Reincarnated as a Slime Season 3",
+        "genres": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "T",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.81,
+        "status": "Currently Airing",
+        "total_episodes": 24
     },
     {
         "id": 32062,
