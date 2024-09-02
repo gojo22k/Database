@@ -2592,6 +2592,42 @@
         "total_episodes": null
     },
     {
+        "id": 207394,
+        "name": "Haikyuu The Dumpster Battle",
+        "genres": "Sports",
+        "type": "Movie",
+        "starting_letter": "H",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.07,
+        "status": "Finished Airing",
+        "total_episodes": 1
+    },
+    {
+        "id": 207395,
+        "name": "Dragon Ball",
+        "genres": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.97,
+        "status": "Finished Airing",
+        "total_episodes": 153
+    },
+    {
+        "id": 207396,
+        "name": "Dragon Ball Z: Bardock \u2013 The Father of Goku",
+        "genres": "Adventure, Comedy, Fantasy, Sci-Fi",
+        "type": "TV Special",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.57,
+        "status": "Finished Airing",
+        "total_episodes": 1
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
