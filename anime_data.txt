@@ -127,7 +127,7 @@
         "starting_letter": "B",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.25,
+        "score": 8.24,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -187,7 +187,7 @@
         "starting_letter": "D",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -199,7 +199,7 @@
         "starting_letter": "D",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -211,7 +211,7 @@
         "starting_letter": "D",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -223,7 +223,7 @@
         "starting_letter": "D",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -739,7 +739,7 @@
         "starting_letter": "S",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.29,
+        "score": 8.28,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -943,7 +943,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.2,
+        "score": 6.19,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -1159,7 +1159,7 @@
         "starting_letter": "S",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.29,
+        "score": 8.28,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1363,7 +1363,7 @@
         "starting_letter": "C",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.49,
+        "score": 8.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2167,7 +2167,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.25,
+        "score": 8.24,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -2275,7 +2275,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -2287,7 +2287,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -2299,7 +2299,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -2311,7 +2311,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.2,
+        "score": 6.19,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2323,7 +2323,7 @@
         "starting_letter": "1",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.13,
+        "score": 6.1,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2335,7 +2335,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.46,
+        "score": 8.45,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -2347,7 +2347,7 @@
         "starting_letter": "2",
         "cloud": "Filemoon",
         "pg_rating": "G - All Ages",
-        "score": 5.84,
+        "score": 5.79,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2359,7 +2359,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.83,
+        "score": 7.82,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2383,7 +2383,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.01,
+        "score": 7,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2395,7 +2395,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.34,
+        "score": 8.33,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2407,7 +2407,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.42,
+        "score": 6.41,
         "status": "Currently Airing",
         "total_episodes": 10
     },
@@ -2419,7 +2419,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.61,
+        "score": 6.59,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2479,7 +2479,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.06,
+        "score": 7.07,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2503,7 +2503,7 @@
         "starting_letter": "Q",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.27,
+        "score": 6.26,
         "status": "Currently Airing",
         "total_episodes": 13
     },
@@ -2515,7 +2515,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.98,
+        "score": 7.97,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2551,7 +2551,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.39,
+        "score": 6.37,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2587,7 +2587,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.19,
+        "score": 7.14,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2640,6 +2640,30 @@
         "total_episodes": 12
     },
     {
+        "id": 207428,
+        "name": "Alya Sometimes Hides Her Feelings in Russian",
+        "genres": "Comedy, Romance",
+        "type": "TV",
+        "starting_letter": "A",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.9,
+        "status": "Currently Airing",
+        "total_episodes": 12
+    },
+    {
+        "id": 208662,
+        "name": "Horimiya",
+        "genres": "Romance",
+        "type": "TV",
+        "starting_letter": "H",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.2,
+        "status": "Finished Airing",
+        "total_episodes": 13
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
@@ -2647,7 +2671,7 @@
         "starting_letter": "C",
         "cloud": "VidHide",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.49,
+        "score": 8.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2779,7 +2803,7 @@
         "starting_letter": "S",
         "cloud": "StreamWish",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.29,
+        "score": 8.28,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2851,7 +2875,7 @@
         "starting_letter": "C",
         "cloud": "DoodStream",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.49,
+        "score": 8.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2899,7 +2923,7 @@
         "starting_letter": "S",
         "cloud": "DoodStream",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.29,
+        "score": 8.28,
         "status": "Finished Airing",
         "total_episodes": 12
     }
