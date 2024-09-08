@@ -2316,18 +2316,6 @@
         "total_episodes": 12
     },
     {
-        "id": 196458,
-        "name": "1A",
-        "genres": "Action, Fantasy, Sci-Fi",
-        "type": "TV Special",
-        "starting_letter": "1",
-        "cloud": "Filemoon",
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.1,
-        "status": "Finished Airing",
-        "total_episodes": 1
-    },
-    {
         "id": 197763,
         "name": "Demon Slayer Season 1",
         "genres": "Action, Award Winning, Fantasy",
@@ -2340,18 +2328,6 @@
         "total_episodes": 26
     },
     {
-        "id": 198844,
-        "name": "2B",
-        "genres": "Fantasy",
-        "type": "OVA",
-        "starting_letter": "2",
-        "cloud": "Filemoon",
-        "pg_rating": "G - All Ages",
-        "score": 5.79,
-        "status": "Finished Airing",
-        "total_episodes": 1
-    },
-    {
         "id": 199736,
         "name": "Wistoria: Wand and Sword",
         "genres": "Action, Adventure, Fantasy",
@@ -2359,7 +2335,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.82,
+        "score": 7.81,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2383,7 +2359,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7,
+        "score": 6.99,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2407,7 +2383,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.41,
+        "score": 6.37,
         "status": "Currently Airing",
         "total_episodes": 10
     },
@@ -2419,7 +2395,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.59,
+        "score": 6.57,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2515,7 +2491,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.97,
+        "score": 7.96,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2587,7 +2563,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.14,
+        "score": 7.13,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2662,6 +2638,18 @@
         "score": 8.2,
         "status": "Finished Airing",
         "total_episodes": 13
+    },
+    {
+        "id": 209252,
+        "name": "The Elusive Samurai",
+        "genres": "Adventure, Comedy",
+        "type": "TV",
+        "starting_letter": "T",
+        "cloud": "Filemoon",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 7.91,
+        "status": "Currently Airing",
+        "total_episodes": 12
     },
     {
         "id": 32062,
