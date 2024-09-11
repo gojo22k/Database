@@ -367,7 +367,7 @@
         "starting_letter": "J",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.59,
+        "score": 8.58,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -943,7 +943,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.19,
+        "score": 6.18,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -1003,7 +1003,7 @@
         "starting_letter": "V",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.19,
+        "score": 6.2,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1135,7 +1135,7 @@
         "starting_letter": "J",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.59,
+        "score": 8.58,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -1963,7 +1963,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.19,
+        "score": 6.2,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2311,7 +2311,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.19,
+        "score": 6.18,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2359,7 +2359,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.99,
+        "score": 6.98,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2371,7 +2371,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.33,
+        "score": 8.34,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2383,7 +2383,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.37,
+        "score": 6.36,
         "status": "Currently Airing",
         "total_episodes": 10
     },
@@ -2395,7 +2395,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.57,
+        "score": 6.55,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2479,7 +2479,7 @@
         "starting_letter": "Q",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.26,
+        "score": 6.25,
         "status": "Currently Airing",
         "total_episodes": 13
     },
@@ -2491,7 +2491,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.96,
+        "score": 7.95,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2527,7 +2527,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.37,
+        "score": 6.35,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2539,7 +2539,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.81,
+        "score": 7.8,
         "status": "Currently Airing",
         "total_episodes": 24
     },
@@ -2556,6 +2556,18 @@
         "total_episodes": 12
     },
     {
+        "id": 209980,
+        "name": "Banished from the Hero\u2019s Party, I Decided to Live a Quiet Life in the Countryside",
+        "genres": "Adventure, Fantasy, Romance",
+        "type": "TV",
+        "starting_letter": "B",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 6.93,
+        "status": "Finished Airing",
+        "total_episodes": 13
+    },
+    {
         "id": 207391,
         "name": "Tower of God Season 2",
         "genres": "Action, Adventure, Drama, Fantasy, Mystery",
@@ -2563,7 +2575,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.13,
+        "score": 7.08,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2623,7 +2635,7 @@
         "starting_letter": "A",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.9,
+        "score": 7.89,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2695,7 +2707,7 @@
         "starting_letter": "J",
         "cloud": "VidHide",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.59,
+        "score": 8.58,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -2779,7 +2791,7 @@
         "starting_letter": "J",
         "cloud": "StreamWish",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.59,
+        "score": 8.58,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -2887,7 +2899,7 @@
         "starting_letter": "J",
         "cloud": "DoodStream",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.59,
+        "score": 8.58,
         "status": "Finished Airing",
         "total_episodes": 24
     },
