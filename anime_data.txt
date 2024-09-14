@@ -2688,6 +2688,18 @@
         "total_episodes": 24
     },
     {
+        "id": 210623,
+        "name": "Fire Force Season 2",
+        "genres": "Action, Fantasy, Sci-Fi",
+        "type": "TV",
+        "starting_letter": "F",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.82,
+        "status": "Finished Airing",
+        "total_episodes": 24
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
