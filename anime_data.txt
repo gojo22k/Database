@@ -79,7 +79,7 @@
         "starting_letter": "B",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.37,
+        "score": 7.38,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -787,7 +787,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.67,
+        "score": 6.68,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -931,7 +931,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.14,
+        "score": 7.13,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -943,7 +943,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.41,
+        "score": 6.42,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1034,7 +1034,7 @@
     {
         "id": "841854",
         "name": "Weathering With You",
-        "genres": "Award Winning, Drama, Fantasy, Romance",
+        "genres": "Award Winning, Drama, Romance, Supernatural",
         "type": "Movie",
         "starting_letter": "W",
         "cloud": "MixDrop",
@@ -1711,7 +1711,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.14,
+        "score": 7.13,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -2011,7 +2011,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.37,
+        "score": 7.38,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2174,7 +2174,7 @@
     {
         "id": 186738,
         "name": "Weathering With You",
-        "genres": "Award Winning, Drama, Fantasy, Romance",
+        "genres": "Award Winning, Drama, Romance, Supernatural",
         "type": "Movie",
         "starting_letter": "W",
         "cloud": "Filemoon",
@@ -2203,8 +2203,8 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.26,
-        "status": "Currently Airing",
+        "score": 7.54,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2239,7 +2239,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.67,
+        "score": 6.68,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2263,8 +2263,8 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.29,
-        "status": "Currently Airing",
+        "score": 7.39,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2311,7 +2311,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.41,
+        "score": 6.42,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2335,7 +2335,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.81,
+        "score": 7.82,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2359,7 +2359,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.97,
+        "score": 6.94,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2395,7 +2395,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.53,
+        "score": 6.49,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2455,7 +2455,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.07,
+        "score": 7.08,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2479,7 +2479,7 @@
         "starting_letter": "Q",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.24,
+        "score": 6.23,
         "status": "Currently Airing",
         "total_episodes": 13
     },
@@ -2491,7 +2491,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.95,
+        "score": 7.94,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2527,7 +2527,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.36,
+        "score": 6.38,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2539,7 +2539,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.8,
+        "score": 7.79,
         "status": "Currently Airing",
         "total_episodes": 24
     },
@@ -2575,7 +2575,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.06,
+        "score": 7,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2635,8 +2635,8 @@
         "starting_letter": "A",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.88,
-        "status": "Currently Airing",
+        "score": 7.81,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2698,6 +2698,18 @@
         "score": 7.82,
         "status": "Finished Airing",
         "total_episodes": 24
+    },
+    {
+        "id": 212189,
+        "name": "Twilight of the Gods",
+        "genres": "Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "T",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 6.55,
+        "status": "Finished Airing",
+        "total_episodes": 12
     },
     {
         "id": 32062,
