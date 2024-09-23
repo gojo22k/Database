@@ -2724,6 +2724,18 @@
         "total_episodes": 12
     },
     {
+        "id": 212834,
+        "name": "Sword Art Online Alternative: Gun Gale Online",
+        "genres": "Action",
+        "type": "TV",
+        "starting_letter": "S",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.01,
+        "status": "Finished Airing",
+        "total_episodes": 12
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
