@@ -283,7 +283,7 @@
         "starting_letter": "H",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.02,
+        "score": 7.03,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -343,7 +343,7 @@
         "starting_letter": "I",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.46,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -362,7 +362,7 @@
     {
         "id": "834248",
         "name": "Jujutsu Kaisen",
-        "genres": "Action, Award Winning, Fantasy",
+        "genres": "Action, Award Winning, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "MixDrop",
@@ -374,12 +374,12 @@
     {
         "id": "834048",
         "name": "Jujutsu Kaisen Season 2",
-        "genres": "Action, Fantasy",
+        "genres": "Action, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.8,
+        "score": 8.79,
         "status": "Finished Airing",
         "total_episodes": 23
     },
@@ -391,7 +391,7 @@
         "starting_letter": "J",
         "cloud": "MixDrop",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 6.53,
+        "score": 6.54,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -679,7 +679,7 @@
         "starting_letter": "R",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.09,
+        "score": 6.11,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -787,7 +787,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.68,
+        "score": 6.7,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -823,7 +823,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -835,7 +835,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -847,7 +847,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -859,7 +859,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -883,7 +883,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.1,
+        "score": 7.11,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -895,7 +895,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "G - All Ages",
-        "score": 6.69,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -907,7 +907,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.57,
+        "score": 6.58,
         "status": "Finished Airing",
         "total_episodes": 11
     },
@@ -919,7 +919,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG - Children",
-        "score": 6.68,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 127
     },
@@ -1051,7 +1051,7 @@
         "starting_letter": "W",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.77,
+        "score": 7.76,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -1130,7 +1130,7 @@
     {
         "id": 134619,
         "name": "Jujutsu Kaisen",
-        "genres": "Action, Award Winning, Fantasy",
+        "genres": "Action, Award Winning, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "Filemoon",
@@ -1166,12 +1166,12 @@
     {
         "id": 135026,
         "name": "Jujutsu Kaisen Season 2",
-        "genres": "Action, Fantasy",
+        "genres": "Action, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.8,
+        "score": 8.79,
         "status": "Finished Airing",
         "total_episodes": 23
     },
@@ -1190,7 +1190,7 @@
     {
         "id": 136066,
         "name": "Your Name",
-        "genres": "Award Winning, Drama, Supernatural",
+        "genres": "Award Winning, Drama",
         "type": "Movie",
         "starting_letter": "Y",
         "cloud": "Filemoon",
@@ -1243,7 +1243,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 5.64,
+        "score": 5.65,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1255,7 +1255,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 5.64,
+        "score": 5.65,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1267,7 +1267,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 5.64,
+        "score": 5.65,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1519,7 +1519,7 @@
         "starting_letter": "A",
         "cloud": "Filemoon",
         "pg_rating": "R+ - Mild Nudity",
-        "score": 6.43,
+        "score": 6.45,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -1555,7 +1555,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG - Children",
-        "score": 6.68,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 127
     },
@@ -1567,7 +1567,7 @@
         "starting_letter": "I",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.46,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1591,7 +1591,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.1,
+        "score": 7.11,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1699,7 +1699,7 @@
         "starting_letter": "H",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.02,
+        "score": 7.03,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1735,7 +1735,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.57,
+        "score": 6.58,
         "status": "Finished Airing",
         "total_episodes": 11
     },
@@ -1759,7 +1759,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.77,
+        "score": 7.76,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -1807,7 +1807,7 @@
         "starting_letter": "G",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 4.95,
+        "score": 4.99,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1843,7 +1843,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1855,7 +1855,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1867,7 +1867,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1879,7 +1879,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.47,
+        "score": 7.48,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1891,7 +1891,7 @@
         "starting_letter": "R",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.09,
+        "score": 6.11,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1951,7 +1951,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "G - All Ages",
-        "score": 6.69,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2083,7 +2083,7 @@
         "starting_letter": "I",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.91,
+        "score": 6.92,
         "status": "Finished Airing",
         "total_episodes": 26
     },
@@ -2191,9 +2191,9 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 9.33,
-        "status": "Finished Airing",
-        "total_episodes": 28
+        "score": null,
+        "status": "Not yet aired",
+        "total_episodes": null
     },
     {
         "id": 199885,
@@ -2203,7 +2203,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.54,
+        "score": 7.52,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2227,7 +2227,7 @@
         "starting_letter": "J",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 6.53,
+        "score": 6.54,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2239,7 +2239,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.68,
+        "score": 6.7,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2263,7 +2263,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.42,
+        "score": 7.4,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2335,8 +2335,8 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.84,
-        "status": "Currently Airing",
+        "score": 7.92,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2359,7 +2359,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.16,
+        "score": 7.13,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2371,8 +2371,8 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.34,
-        "status": "Currently Airing",
+        "score": 8.32,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2395,8 +2395,8 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.46,
-        "status": "Currently Airing",
+        "score": 6.29,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2455,8 +2455,8 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.09,
-        "status": "Currently Airing",
+        "score": 7.32,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2479,8 +2479,8 @@
         "starting_letter": "Q",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.23,
-        "status": "Currently Airing",
+        "score": 6.55,
+        "status": "Finished Airing",
         "total_episodes": 13
     },
     {
@@ -2491,7 +2491,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.93,
+        "score": 7.89,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2539,8 +2539,8 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.79,
-        "status": "Currently Airing",
+        "score": 7.7,
+        "status": "Finished Airing",
         "total_episodes": 24
     },
     {
@@ -2575,9 +2575,9 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.96,
-        "status": "Currently Airing",
-        "total_episodes": null
+        "score": 6.73,
+        "status": "Finished Airing",
+        "total_episodes": 13
     },
     {
         "id": 207394,
@@ -2635,7 +2635,7 @@
         "starting_letter": "A",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.76,
+        "score": 7.69,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2671,8 +2671,8 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 7.91,
-        "status": "Currently Airing",
+        "score": 7.87,
+        "status": "Finished Airing",
         "total_episodes": 12
     },
     {
@@ -2736,6 +2736,18 @@
         "total_episodes": 12
     },
     {
+        "id": 215787,
+        "name": "Ranma1/2 ",
+        "genres": "Comedy",
+        "type": "OVA",
+        "starting_letter": "R",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.1,
+        "status": "Finished Airing",
+        "total_episodes": 2
+    },
+    {
         "id": 32062,
         "name": "Chainsaw Man",
         "genres": "Action, Fantasy",
@@ -2774,7 +2786,7 @@
     {
         "id": 32139,
         "name": "Jujutsu Kaisin",
-        "genres": "Action, Award Winning, Fantasy",
+        "genres": "Action, Award Winning, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "VidHide",
@@ -2786,12 +2798,12 @@
     {
         "id": 32140,
         "name": "Jujutsu Kaisen Season 2",
-        "genres": "Action, Fantasy",
+        "genres": "Action, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "VidHide",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.8,
+        "score": 8.79,
         "status": "Finished Airing",
         "total_episodes": 23
     },
@@ -2858,7 +2870,7 @@
     {
         "id": 70474,
         "name": "Jujutsu Kaisin",
-        "genres": "Action, Award Winning, Fantasy",
+        "genres": "Action, Award Winning, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "StreamWish",
@@ -2882,12 +2894,12 @@
     {
         "id": 71136,
         "name": "Jujutsu Kaisen Season 2",
-        "genres": "Action, Fantasy",
+        "genres": "Action, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "StreamWish",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 8.8,
+        "score": 8.79,
         "status": "Finished Airing",
         "total_episodes": 23
     },
@@ -2966,7 +2978,7 @@
     {
         "id": "1248549",
         "name": "Jujutsu Kaisen",
-        "genres": "Action, Award Winning, Fantasy",
+        "genres": "Action, Award Winning, Supernatural",
         "type": "TV",
         "starting_letter": "J",
         "cloud": "DoodStream",
