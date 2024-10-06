@@ -2736,6 +2736,18 @@
         "total_episodes": 12
     },
     {
+        "id": 215814,
+        "name": "Sword Art Online",
+        "genres": "Action, Adventure, Fantasy, Romance",
+        "type": "TV",
+        "starting_letter": "S",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.21,
+        "status": "Finished Airing",
+        "total_episodes": 25
+    },
+    {
         "id": 215787,
         "name": "Ranma1/2 ",
         "genres": "Comedy",
