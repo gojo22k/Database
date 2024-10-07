@@ -86,7 +86,7 @@
     {
         "id": "840956",
         "name": "Black Butler Season 4",
-        "genres": "Action, Fantasy, Mystery",
+        "genres": "Action, Mystery, Supernatural",
         "type": "TV",
         "starting_letter": "B",
         "cloud": "MixDrop",
@@ -1094,7 +1094,7 @@
     {
         "id": 136072,
         "name": "Suzume no Tojimari",
-        "genres": "Adventure, Fantasy",
+        "genres": "Adventure, Supernatural",
         "type": "Movie",
         "starting_letter": "S",
         "cloud": "Filemoon",
@@ -2102,7 +2102,7 @@
     {
         "id": 185348,
         "name": "Black Butler Season 4",
-        "genres": "Action, Fantasy, Mystery",
+        "genres": "Action, Mystery, Supernatural",
         "type": "TV",
         "starting_letter": "B",
         "cloud": "Filemoon",
@@ -2263,7 +2263,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.4,
+        "score": 7.39,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2359,7 +2359,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.13,
+        "score": 7.12,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2527,7 +2527,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.39,
+        "score": 6.4,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2539,7 +2539,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.7,
+        "score": 7.69,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -2587,7 +2587,7 @@
         "starting_letter": "H",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.07,
+        "score": 8.08,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2758,6 +2758,18 @@
         "score": 7.1,
         "status": "Finished Airing",
         "total_episodes": 2
+    },
+    {
+        "id": 216272,
+        "name": "Nina The Starry Bride",
+        "genres": "Fantasy, Romance",
+        "type": "TV",
+        "starting_letter": "N",
+        "cloud": "Filemoon",
+        "pg_rating": null,
+        "score": null,
+        "status": "Not yet aired",
+        "total_episodes": 12
     },
     {
         "id": 32062,
