@@ -127,7 +127,7 @@
         "starting_letter": "B",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.24,
+        "score": 8.23,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -919,7 +919,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG - Children",
-        "score": 6.72,
+        "score": 6.67,
         "status": "Finished Airing",
         "total_episodes": 127
     },
@@ -1452,18 +1452,6 @@
         "total_episodes": 24
     },
     {
-        "id": 146642,
-        "name": "Akebi\u2019s Sailor Uniform",
-        "genres": "Slice of Life",
-        "type": "TV",
-        "starting_letter": "A",
-        "cloud": "Filemoon",
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.66,
-        "status": "Finished Airing",
-        "total_episodes": 12
-    },
-    {
         "id": 146724,
         "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
         "genres": "Action, Fantasy, Romance",
@@ -1555,7 +1543,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG - Children",
-        "score": 6.72,
+        "score": 6.67,
         "status": "Finished Airing",
         "total_episodes": 127
     },
@@ -2040,18 +2028,6 @@
         "total_episodes": 25
     },
     {
-        "id": 184881,
-        "name": "5 Centimeters per Second",
-        "genres": "Drama, Romance",
-        "type": "Movie",
-        "starting_letter": "5",
-        "cloud": "Filemoon",
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.56,
-        "status": "Finished Airing",
-        "total_episodes": 3
-    },
-    {
         "id": 184882,
         "name": "Horimiya: The Missing Pieces Season 2",
         "genres": "Romance",
@@ -2167,7 +2143,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.24,
+        "score": 8.23,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -2371,7 +2347,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.28,
+        "score": 8.27,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2491,7 +2467,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.87,
+        "score": 7.86,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2527,7 +2503,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.4,
+        "score": 6.39,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2767,7 +2743,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.81,
+        "score": 6.8,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2818,6 +2794,18 @@
         "score": 8.62,
         "status": "Finished Airing",
         "total_episodes": 25
+    },
+    {
+        "id": 224093,
+        "name": "DAN DA DAN",
+        "genres": "Fantasy",
+        "type": "Movie",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "PG - Children",
+        "score": null,
+        "status": "Finished Airing",
+        "total_episodes": 1
     },
     {
         "id": 32062,
