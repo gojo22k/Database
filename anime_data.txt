@@ -247,7 +247,7 @@
         "starting_letter": "F",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 9.33,
+        "score": 9.32,
         "status": "Finished Airing",
         "total_episodes": 28
     },
@@ -679,7 +679,7 @@
         "starting_letter": "R",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.09,
+        "score": 6.1,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -787,7 +787,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.7,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -1500,7 +1500,7 @@
         "total_episodes": 500
     },
     {
-        "id": 161732,
+        "id": 224380,
         "name": "ANKIT",
         "genres": "Action, Supernatural",
         "type": "OVA",
@@ -1879,7 +1879,7 @@
         "starting_letter": "R",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.09,
+        "score": 6.1,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2179,7 +2179,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.52,
+        "score": 7.51,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2215,7 +2215,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.7,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2239,7 +2239,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.39,
+        "score": 7.38,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2347,7 +2347,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.27,
+        "score": 8.26,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2371,7 +2371,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.28,
+        "score": 6.27,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2515,7 +2515,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.69,
+        "score": 7.68,
         "status": "Finished Airing",
         "total_episodes": 24
     },
@@ -2743,21 +2743,9 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.8,
+        "score": 6.79,
         "status": "Currently Airing",
         "total_episodes": 12
-    },
-    {
-        "id": 220206,
-        "name": "DEMO2",
-        "genres": "Drama, Sci-Fi",
-        "type": "OVA",
-        "starting_letter": "D",
-        "cloud": "Filemoon",
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 7.18,
-        "status": "Finished Airing",
-        "total_episodes": 1
     },
     {
         "id": 220205,
@@ -2806,6 +2794,18 @@
         "score": null,
         "status": "Finished Airing",
         "total_episodes": 1
+    },
+    {
+        "id": 224599,
+        "name": "Demon Lord, Retry! R",
+        "genres": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 5.65,
+        "status": "Currently Airing",
+        "total_episodes": null
     },
     {
         "id": 32062,
