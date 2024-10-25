@@ -902,7 +902,7 @@
     {
         "id": "839012",
         "name": "The Maid I Hired Recently is Mysterious",
-        "genres": "Comedy",
+        "genres": "Comedy, Romance",
         "type": "TV",
         "starting_letter": "T",
         "cloud": "MixDrop",
@@ -1003,7 +1003,7 @@
         "starting_letter": "V",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.21,
+        "score": 6.2,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1718,7 +1718,7 @@
     {
         "id": 179344,
         "name": "The Maid I Hired Recently is Mysterious",
-        "genres": "Comedy",
+        "genres": "Comedy, Romance",
         "type": "TV",
         "starting_letter": "T",
         "cloud": "Filemoon",
@@ -1951,7 +1951,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.21,
+        "score": 6.2,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2647,7 +2647,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 7.86,
+        "score": 7.85,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2743,7 +2743,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.81,
+        "score": 6.8,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2803,7 +2803,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 5.62,
+        "score": 5.61,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2830,6 +2830,42 @@
         "score": 7.03,
         "status": "Currently Airing",
         "total_episodes": 24
+    },
+    {
+        "id": 225313,
+        "name": "Rurouni Kenshin: Kyoto Disturbance",
+        "genres": "Action, Drama",
+        "type": "OVA",
+        "starting_letter": "R",
+        "cloud": "Filemoon",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 7.12,
+        "status": "Finished Airing",
+        "total_episodes": 2
+    },
+    {
+        "id": 225314,
+        "name": "Rurouni Kenshin: Kyoto Disturbance Season 2",
+        "genres": "Action, Drama",
+        "type": "OVA",
+        "starting_letter": "R",
+        "cloud": "Filemoon",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "score": 7.12,
+        "status": "Finished Airing",
+        "total_episodes": 2
+    },
+    {
+        "id": 225318,
+        "name": "Good Bye, Dragon Life",
+        "genres": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "starting_letter": "G",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 6.7,
+        "status": "Currently Airing",
+        "total_episodes": null
     },
     {
         "id": 32062,
