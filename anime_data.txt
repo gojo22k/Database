@@ -283,7 +283,7 @@
         "starting_letter": "H",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.03,
+        "score": 7.02,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1003,7 +1003,7 @@
         "starting_letter": "V",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.2,
+        "score": 6.21,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1687,7 +1687,7 @@
         "starting_letter": "H",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.03,
+        "score": 7.02,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1951,7 +1951,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.2,
+        "score": 6.21,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2347,7 +2347,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.25,
+        "score": 8.24,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2467,7 +2467,7 @@
         "starting_letter": "F",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.85,
+        "score": 7.84,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2551,7 +2551,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.7,
+        "score": 6.71,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -2611,9 +2611,33 @@
         "starting_letter": "A",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.66,
+        "score": 7.65,
         "status": "Finished Airing",
         "total_episodes": 12
+    },
+    {
+        "id": 226329,
+        "name": "A Silent Voice",
+        "genres": "Award Winning, Drama",
+        "type": "Movie",
+        "starting_letter": "A",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 8.93,
+        "status": "Finished Airing",
+        "total_episodes": 1
+    },
+    {
+        "id": 226328,
+        "name": "My Oni Girl",
+        "genres": "Supernatural",
+        "type": "Movie",
+        "starting_letter": "M",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 6.84,
+        "status": "Finished Airing",
+        "total_episodes": 1
     },
     {
         "id": 208662,
@@ -2755,7 +2779,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "R - 17+ (violence & profanity)",
-        "score": 7.18,
+        "score": 7.19,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -2827,7 +2851,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.03,
+        "score": 7.04,
         "status": "Currently Airing",
         "total_episodes": 24
     },
@@ -2863,7 +2887,7 @@
         "starting_letter": "G",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.64,
+        "score": 6.63,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2887,7 +2911,7 @@
         "starting_letter": "Y",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.29,
+        "score": 7.27,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2923,7 +2947,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.02,
+        "score": 6.96,
         "status": "Currently Airing",
         "total_episodes": 14
     },
