@@ -799,7 +799,7 @@
         "starting_letter": "T",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.82,
+        "score": 7.83,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1003,7 +1003,7 @@
         "starting_letter": "V",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.21,
+        "score": 6.2,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1051,7 +1051,7 @@
         "starting_letter": "W",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.76,
+        "score": 7.75,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -1507,7 +1507,7 @@
         "starting_letter": "A",
         "cloud": "Filemoon",
         "pg_rating": "R+ - Mild Nudity",
-        "score": 6.44,
+        "score": 6.45,
         "status": "Finished Airing",
         "total_episodes": 1
     },
@@ -1627,7 +1627,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.82,
+        "score": 7.83,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1747,7 +1747,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.76,
+        "score": 7.75,
         "status": "Finished Airing",
         "total_episodes": 13
     },
@@ -1951,7 +1951,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.21,
+        "score": 6.2,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2599,7 +2599,7 @@
         "starting_letter": "M",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.82,
+        "score": 7.81,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2767,7 +2767,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.8,
+        "score": 6.79,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2827,7 +2827,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 5.59,
+        "score": 5.57,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2851,7 +2851,7 @@
         "starting_letter": "T",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.04,
+        "score": 7.01,
         "status": "Currently Airing",
         "total_episodes": 24
     },
@@ -2887,7 +2887,7 @@
         "starting_letter": "G",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.63,
+        "score": 6.58,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2899,7 +2899,7 @@
         "starting_letter": "3",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.13,
+        "score": 7.11,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2911,7 +2911,7 @@
         "starting_letter": "Y",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.27,
+        "score": 7.26,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2947,9 +2947,21 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.96,
+        "score": 6.91,
         "status": "Currently Airing",
         "total_episodes": 14
+    },
+    {
+        "id": 226957,
+        "name": "Campfire Cooking in Another World with My Absurd Skill",
+        "genres": "Adventure, Comedy, Fantasy, Gourmet",
+        "type": "TV",
+        "starting_letter": "C",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.65,
+        "status": "Finished Airing",
+        "total_episodes": 12
     },
     {
         "id": 32062,
