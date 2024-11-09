@@ -151,7 +151,7 @@
         "starting_letter": "B",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.12,
+        "score": 8.11,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -283,7 +283,7 @@
         "starting_letter": "H",
         "cloud": "MixDrop",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.02,
+        "score": 7.03,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -1687,7 +1687,7 @@
         "starting_letter": "H",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.02,
+        "score": 7.03,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2131,7 +2131,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.12,
+        "score": 8.11,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2335,7 +2335,7 @@
         "starting_letter": "V",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.09,
+        "score": 7.1,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2371,7 +2371,7 @@
         "starting_letter": "W",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.27,
+        "score": 6.26,
         "status": "Finished Airing",
         "total_episodes": 12
     },
@@ -2767,7 +2767,7 @@
         "starting_letter": "N",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.79,
+        "score": 6.8,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2827,7 +2827,7 @@
         "starting_letter": "D",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 5.52,
+        "score": 5.51,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2887,7 +2887,7 @@
         "starting_letter": "G",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.55,
+        "score": 6.53,
         "status": "Currently Airing",
         "total_episodes": null
     },
@@ -2899,7 +2899,7 @@
         "starting_letter": "3",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 7.09,
+        "score": 7.08,
         "status": "Currently Airing",
         "total_episodes": 12
     },
@@ -2947,7 +2947,7 @@
         "starting_letter": "B",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 6.82,
+        "score": 6.8,
         "status": "Currently Airing",
         "total_episodes": 14
     },
@@ -2983,9 +2983,21 @@
         "starting_letter": "L",
         "cloud": "Filemoon",
         "pg_rating": "PG-13 - Teens 13 or older",
-        "score": 8.89,
+        "score": 8.9,
         "status": "Finished Airing",
         "total_episodes": 1
+    },
+    {
+        "id": 227960,
+        "name": "Dragon Ball DAIMA",
+        "genres": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "starting_letter": "D",
+        "cloud": "Filemoon",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "score": 7.97,
+        "status": "Currently Airing",
+        "total_episodes": null
     },
     {
         "id": 32062,
